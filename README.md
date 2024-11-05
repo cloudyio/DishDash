@@ -1,6 +1,8 @@
 # DishDash
 ## What is this?
-Dish Dash is a basic app made to find you a random meal to make when you have no idea, you can access it here: (url)
+Dish Dash is a basic app made to find you a random meal to make when you have no idea, you can access it [here](https://dish-dash-jade.vercel.app/)
+
+![image](image.png)
 
 ## Features:
 - Large variatey of foods and deserts using [the meal db](https://www.themealdb.com) API

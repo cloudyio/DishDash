@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="js">
     let data = null;
 
     async function RollFood() {
