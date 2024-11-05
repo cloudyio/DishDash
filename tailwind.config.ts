@@ -9,5 +9,5 @@ export default {
 		extend: {}
 	},
 
-	plugins: [typography, aspectRatio]
+	plugins: [typography, aspectRatio, require('daisyui')]
 } satisfies Config;
